@@ -7,6 +7,12 @@ Total number of samples: 40
 4. signal_4 : 2L/2H/2L/2H/2L/2H/2L/2H/2L/2H/2L/2H/2L/2H/2L/2H/2L/2H/2L/2H
 5. signal_5 : 3L/1H/1L/1H/1L/1H/8L/2H/2L/2H/2L/2H/2L/2H/10L
 
+==================== waveform description during simplification process (iteration #1) ====================
+2. signal_2 : (1H/1L)*20
+3. signal_3 : (2H/2L)*10
+4. signal_4 : (2L/2H)*10
+5. signal_5 : 3L/(1H/1L)*3/7L/(2H/2L)*4/8L
+
 ==================== simplified waveform description ====================
 1. signal_1 : 2L/1H/3L/5H/2L/1H/4L/3H/7L/1H/7L/4H
 2. signal_2 : (1H/1L)*20
